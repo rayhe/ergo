@@ -177,6 +177,29 @@ body {
   }
   .lead-article h2 { font-size: 1.6rem; }
   .site-header h1 { font-size: 2.2rem; }
+  .site-header { padding: 1rem 1rem 0.75rem; }
+  .site-nav { gap: 1rem; font-size: 0.72rem; flex-wrap: wrap; }
+  .site-tagline { font-size: 0.9rem; }
+  .homepage { padding: 1.5rem 1rem; }
+  .lead-article { padding-bottom: 1.5rem; margin-bottom: 1.5rem; }
+  .lead-article .article-deck { font-size: 1rem; }
+  .article-page { padding: 1.5rem 1rem 3rem; }
+  .article-page h1 { font-size: 1.8rem; line-height: 1.2; }
+  .article-page .article-deck { font-size: 1rem; }
+  .article-body h2 { font-size: 1.25rem; }
+  .article-body h3 { font-size: 0.95rem; }
+  body { font-size: 16px; }
+  .hero-image figcaption { padding: 0.35rem 1rem 0; }
+  .about-page { padding: 1.5rem 1rem 3rem; }
+  .about-page h1 { font-size: 1.8rem; }
+  .site-footer { padding: 1rem; }
+  .pullquote { font-size: 1.15rem; padding: 1rem 0; margin: 1.5rem 0; }
+  .footnotes ol { font-size: 0.82rem; padding-left: 1.25rem; }
+  .article-body table { font-size: 0.8rem; display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .article-body th, .article-body td { padding: 0.4rem 0.5rem; white-space: nowrap; }
+  .article-body blockquote { padding: 0.4rem 1rem; margin: 1rem 0; }
+  .article-card .article-deck { font-size: 0.85rem; }
+  .article-card h3 { font-size: 1.1rem; }
 }
 
 .article-card {
