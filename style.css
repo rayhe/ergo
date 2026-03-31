@@ -113,6 +113,17 @@ body {
   margin-bottom: 2.5rem;
 }
 
+.lead-article .lead-image {
+  display: block;
+  margin-bottom: 1.25rem;
+}
+
+.lead-article .lead-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .lead-article .article-category {
   font-size: 0.72rem;
   text-transform: uppercase;
@@ -204,6 +215,26 @@ body {
   color: var(--text-secondary);
   line-height: 1.5;
   margin-bottom: 0.5rem;
+}
+
+/* Hero image */
+.hero-image {
+  max-width: var(--wide-width);
+  margin: 0 auto;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.hero-image figcaption {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  text-align: right;
+  padding: 0.35rem 2rem 0;
+  font-style: italic;
 }
 
 /* Article page */
