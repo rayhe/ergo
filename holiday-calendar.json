@@ -1,0 +1,17 @@
+{
+  "holidays": [
+    {"date": "2026-01-01", "name": "New Year's Day", "themes": ["time zones", "champagne physics", "resolution failure rates"]},
+    {"date": "2026-02-14", "name": "Valentine's Day", "themes": ["chocolate economics", "heart shape history", "Hallmark conspiracy"]},
+    {"date": "2026-03-17", "name": "St. Patrick's Day", "themes": ["snake extinction Ireland", "green dye chemistry", "Guinness fluid dynamics"]},
+    {"date": "2026-04-05", "name": "Easter", "themes": ["rabbit reproduction", "Peeps production", "egg decoration archaeology"]},
+    {"date": "2026-05-10", "name": "Mother's Day", "themes": ["greeting card industry", "brunch economics", "flower supply chain"]},
+    {"date": "2026-05-25", "name": "Memorial Day", "themes": ["BBQ thermodynamics", "mattress sale economics", "pool chemistry"]},
+    {"date": "2026-06-21", "name": "Father's Day", "themes": ["tie manufacturing", "dad joke linguistics", "grill engineering"]},
+    {"date": "2026-07-04", "name": "Independence Day", "themes": ["firework chemistry", "hot dog consumption", "flag textile science"]},
+    {"date": "2026-09-07", "name": "Labor Day", "themes": ["labor statistics", "white clothing rules", "summer mortality"]},
+    {"date": "2026-10-31", "name": "Halloween", "themes": ["candy economics", "costume psychology", "pumpkin agriculture"]},
+    {"date": "2026-11-26", "name": "Thanksgiving", "themes": ["turkey tryptophan myth", "cranberry bog engineering", "Black Friday trampling"]},
+    {"date": "2026-12-25", "name": "Christmas", "themes": ["reindeer aerodynamics", "gift wrapping waste", "Santa logistics"]},
+    {"date": "2026-12-31", "name": "New Year's Eve", "themes": ["ball drop physics", "noise maker acoustics", "hangover biochemistry"]}
+  ]
+}
