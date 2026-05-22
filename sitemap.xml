@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ergo.eaiz.net/articles/dandelions-commerce-clause-regulation.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ergo.eaiz.net/articles/evolution-prior-art-patent-infringement.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://ergo.eaiz.net/articles/immune-system-geneva-conventions.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>never</changefreq>
@@ -20,7 +32,7 @@
   </url>
   <url>
     <loc>https://ergo.eaiz.net/</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
