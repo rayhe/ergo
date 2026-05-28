@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ergo.eaiz.net/articles/earths-magnetic-field-unlicensed-navigation-aid.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://ergo.eaiz.net/articles/beaver-unlicensed-dam-operator.html</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>never</changefreq>
@@ -20,7 +26,7 @@
   </url>
   <url>
     <loc>https://ergo.eaiz.net/articles/dandelions-commerce-clause-regulation.html</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.9</priority>
   </url>
