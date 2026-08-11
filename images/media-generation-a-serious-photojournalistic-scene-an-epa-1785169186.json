@@ -1,9 +1,0 @@
-{
-  "text": "{\"file_path\":\"\\/mnt\\/data\\/epa_inspector_coffee_shop.webp\",\"snapshot_handle\":\"GOwXHi0dxRUeHUUGAAo3eIwpvA5bbg1iAQBj\",\"status\":\"Generated 1 image(s)\",\"tools_called_tag\":\"\\n[tools_called: generate_image]\",\"usage\":{\"generation_calls\":1,\"input_tokens\":10663,\"output_tokens\":1327,\"reasoning_tokens\":357},\"media_context_handle\":\"0s3ig7\"}",
-  "attachments": [
-    {
-      "url": "https://scontent.xx.fbcdn.net/v/t39.105495-1/758543409_1086022027429120_2701741113685461207_n.webp?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=104&_nc_ohc=hzsi2ru2k28Q7kNvwEgwRGR&sdl=0&ccb=14-4&oh=00_AQB3Eo-W1OAgFT4V9eLdlphLutRzf25PN2koSDg8AhCJ3Q&oe=6A6D3F51&_nc_sid=a21977",
-      "media_handle": ""
-    }
-  ]
-}

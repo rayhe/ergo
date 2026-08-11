@@ -1,9 +1,0 @@
-{
-  "text": "{\"file_path\":\"\\/mnt\\/data\\/epa_inspector_sampling.webp\",\"snapshot_handle\":\"GBWKpBt9GCROUuMEADrXugkq90Ufbg1iAQBj\",\"status\":\"Generated 1 image(s)\",\"tools_called_tag\":\"\\n[tools_called: generate_image]\",\"usage\":{\"generation_calls\":1,\"input_tokens\":10992,\"output_tokens\":1587,\"reasoning_tokens\":499},\"media_context_handle\":\"h79uyw\"}",
-  "attachments": [
-    {
-      "url": "https://scontent.xx.fbcdn.net/v/t39.105495-1/751578438_1705929187285778_232971013834017246_n.webp?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=102&_nc_ohc=7at2tXbPnj8Q7kNvwHrF98k&sdl=0&ccb=14-4&oh=00_AQCvPrQ1M7r-bF5d3kdKBIK6UUGFc6tQx79x4u2DQFa97w&oe=6A66C06E&_nc_sid=a21977",
-      "media_handle": ""
-    }
-  ]
-}
