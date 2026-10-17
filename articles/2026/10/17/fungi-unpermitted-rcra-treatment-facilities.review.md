@@ -1,0 +1,50 @@
+# Ergo Review: Fungi as the Largest Unpermitted RCRA Treatment Facility
+
+**Topic:** Fungi as unpermitted hazardous waste treatment facilities under RCRA Subtitle C: 42 U.S.C. 6925(a) prohibits treatment without a permit; 42 U.S.C. 6903(34) defines treatment to include any biological process designed to change the biological character of hazardous waste; 40 CFR 260.10 defines a facility as all contiguous land used for treating hazardous waste; white-rot fungi produce peroxidases that break carbon-hydrogen bonds; the WSDOT field trial reduced PAHs from 10,000 ppm to under 200 in eight weeks; P. chrysosporium degraded ~85% of TNT in 90 days; one Armillaria ostoyae covers 2,385 contiguous acres; zero permits, zero applications.
+**Author:** Kit (with Ray)
+**Date:** 2026-10-17
+
+## Headline
+"Section 6925(a) of Title 42 Provides That the Treatment of Hazardous Waste Is Prohibited Except in Accordance With a Permit, Section 6903(34) Defines Treatment to Include Any Biological Process Designed to Change the Biological Character of Hazardous Waste, the Regulation at 40 CFR 260.10 Defines a Facility as All Contiguous Land Used for Treating Hazardous Waste, White-Rot Fungi Produce Peroxidases That Break the Carbon-Hydrogen Bonds Holding Hydrocarbons Together, Oyster Mushrooms Reduced Polycyclic Aromatic Hydrocarbons in Diesel-Contaminated Soil From 10,000 Parts Per Million to Less Than 200 in Eight Weeks, One Individual of Armillaria Ostoyae Covers 2,385 Contiguous Acres of Oregon Forest Floor, and the Largest Unpermitted Hazardous Waste Treatment Facility in American History Is Underground"
+
+## Thesis
+RCRA 6925(a) prohibits the treatment of hazardous waste except in accordance with a permit. The statutory definition of treatment at 6903(34) expressly covers any biological process designed to change the biological character of hazardous waste so as to render it nonhazardous. EPA's own facility definition at 40 CFR 260.10 is "all contiguous land" used for treating hazardous waste. White-rot fungi deploy peroxidase enzyme systems that break carbon-hydrogen bonds; the documented WSDOT trial destroyed >95% of PAHs in diesel soil (10,000 ppm to <200 in eight weeks); P. chrysosporium degraded ~85% of TNT in 90 days at environmental concentrations; listed explosives wastes (K044/K045/K047) are within the fungi's substrate range. The Humongous Fungus covers 2,385 contiguous acres. No permit, no application, no EPA ID number, no closure plan. Penalty ledger: $1.56B confined to the regulatory era, ~$294B at the organism's full certified age.
+
+## The Deliberately Wrong Conclusion
+Fungi are not "persons" owning or operating facilities; "treatment" in the regulatory sense means engineered processes submitted for permits, and EPA's own 1999 monitored-natural-attenuation directive (OSWER 9200.4-17P) sanctions natural biological degradation as a remedy rather than a violation; not every contaminated soil is a listed or characteristic hazardous waste. The article states all three defenses explicitly in Section IX and overrules them on the text's own terms: the 6925(a) prohibition runs against the treatment itself, "designed" modifies the process rather than the designer, and the WSDOT soil and listed K-codes settle jurisdiction. The conceit is disclosed by the defense section, per the genre's contract. Series callback to the 2026-10-16 earthquakes piece ("the substrate that detonates without a license also treats without a permit") is flagged as a callback, not a claim of causation.
+
+## Research Notes
+- 42 U.S.C. 6925(a) (govinfo.gov, verified this run): permit requirement; treatment/storage/disposal prohibited except in accordance with a permit.
+- 42 U.S.C. 6903(34) (law.cornell.edu, verified this run): treatment = "any method, technique, or process, including neutralization, designed to change the physical, chemical, or biological character or composition of any hazardous waste so as to neutralize such waste or so as to render such waste nonhazardous..."
+- 40 CFR 260.10 (law.cornell.edu, verified this run): "Facility means: (1) All contiguous land, and structures, other appurtenances, and improvements on the land, used for treating, storing, or disposing of hazardous waste."
+- Stamets 2008 address (themomentum.com): "The mycelium produces enzymes, peroxidases, that break carbon-hydrogen bonds. These are the same bonds that hold hydrocarbons together." Stamets coined "mycoremediation"; patent applications filed (paulstamets.com).
+- WSDOT trial (paulstamets.com): berm ~8 ft x 30 ft x 3 ft; competing teams (enzymes, engineered bacteria, chemical agents); 4 weeks: oyster mushrooms to 12 inches; >95% of many PAHs destroyed to non-toxic components; mushrooms free of petroleum.
+- 10,000 ppm to <200 ppm in eight weeks (themomentum.com, quoting the address); dead/dark/stinky competing piles.
+- 12 weeks to highway-landscaping-safe soil (lists.ibiblio.org permaculture summary; corroborated by utne.com: 95% breakdown, soil deemed nontoxic and suitable for highway landscaping after eight weeks).
+- Fernando, Bumpus & Aust 1990 (inis.iaea.org): P. chrysosporium, ~85% of TNT degraded in 90 days at environmental concentrations (10,000 mg/kg soil, 100 mg/L water); ~18-19.6% mineralized to CO2.
+- PMC review (pmc.ncbi.nlm.nih.gov): Umatilla Army Depot composting studies; naval weapons station TNT 98.5% / RDX 70.5% / HMX 95.8% reductions.
+- 40 CFR 261.32 (govregs.com): K044 (explosives manufacturing/processing sludges), K045 (spent carbon from explosives wastewater treatment), K047 (pink/red water from TNT operations).
+- Guinness (guinnessworldrecords.com): A. ostoyae, Malheur National Forest, 2,385 acres, 7,500-35,000 tons, 2,400 to 8,650 years; first detected 1988 by Greg Whipple.
+- Discover (discovermagazine.com): Rokas, 35,000 tons, 8,650 years. Dailygalaxy: 0.7-3.3 ft/year spread, ~60 Boeing 747s.
+- RCRA penalty: $25,000/day statutory (42 U.S.C. 6928(a), EPA civil penalty policy); $93,058/day 2025 inflation-adjusted (40 CFR 19.4, mondaq.com).
+- Penalty arithmetic recomputed in review: 46 years x 365 = 16,790 days x $93,058 = $1,562,443,820 (~$1.56B); 8,650 x 365 = 3,157,250 days x $93,058 = $293,807,370,500 (~$294B). Football-field conversion: 2,385/1.32 = ~1,807 fields, stated as "roughly 1,800."
+
+## Critic Scores
+
+1. **General Editor** — The I-XI arc carries cleanly: permit requirement, treatment definition, facility definition, the operator, the diesel file, the explosives file, the humongous facility, the treatment record, the disclosed defense, the arithmetic, the conclusion. Each section introduces new machinery; the 260.10 "all contiguous land" sentence is the load-bearing joke and earns its placement in Section III. The yesterday-callback in Section VI is a series strength, flagged as callback rather than causation. Minor overlap: the 10,000-to-200 figure appears in V and IX, though each use adds a new regulatory angle (field record, then jurisdiction). **9.0**
+
+2. **Voice Coach** — Deadpan throughout; no em dashes, no exclamation points, no slang. "The definition requires contiguous land used for treating hazardous waste. That is the only test, and it is stated without exception," "The substrate that detonates without a license also treats without a permit," and "The unpermitted sector has operated for up to 8,650 years and has never once filled out a form" are on-register. "We did not write the definition. We merely read it" holds the genre's signature line. **9.0**
+
+3. **Ethics** — All statutes and regulations quoted verbatim from public-domain federal text; all figures verified against primary sources this run. The deliberately wrong conclusion is disclosed via the three-part defense section per the genre's honest-satire contract, and the MNA directive is cited as the agency's own counter-position rather than suppressed. No living person, company, or agency is harmed; EPA is the straight man, not a villain. **9.0**
+
+4. **Social/Shareability** — "Fungi are an unpermitted hazardous waste facility" is graspable at headline level; the Humongous Fungus is internet-famous and carries its own audience; the compliance-officer-tagging-a-mushroom hero image is built for cards. Slightly narrower than the birds piece (RCRA nerds plus mycology buffs), and the 6925(a) citation is denser than Pirker as a hook. **8.5**
+
+5. **Legal Accuracy** — 6925(a), 6903(34), and 260.10 quoted verbatim from govinfo/Cornell text; 6928(a) $25,000 and the 40 CFR 19.4 $93,058 adjustment rendered accurately; K044/K045/K047 listed correctly from 261.32; the 1999 MNA directive cited accurately as the honest counterweight. The defense section states the real counterarguments (persons-only jurisdiction, engineered-process reading, waste jurisdiction) before overruling them, which is the convention. Standard Ergo deduction for creative inference from regulatory text. **9.0**
+
+6. **Research Rigor** — Primary sources throughout: govinfo.gov and law.cornell.edu for the statute and regulation, Stamets's own site for the WSDOT trial, the IAEA record for Fernando/Bumpus/Aust 1990, a peer-reviewed PMC survey for the explosives numbers, govregs for the K-codes, Guinness for the organism figures, EPA/cluin for the MNA directive. One soft citation: the 12-week landscaping figure leans on a mailing-list archive summary, corroborated by the Utne piece cited alongside; the core 8-week figures come from Stamets's own address. No hard number asserted without a source; the penalty and football-field conversions recomputed in review. **8.5**
+
+7. **Data Presentation** — 8x30x3 ft berm, 12-inch mushrooms, >95% of many PAHs, 10,000 ppm to <200 in eight weeks, 12 weeks to landscaping-safe, ~85% TNT in 90 days at 10,000 mg/kg, 98.5/70.5/95.8% at the naval weapons station, 2,385 acres, 7,500-35,000 tons, 2,400-8,650 years, 0.7-3.3 ft/year spread, $25,000 to $93,058/day, $1.56B regulatory-era and ~$294B full-age penalty ledgers, all with denominators and time windows. The zero-compliance ledger in Section X is the genre's signature move and is fully itemized. **9.5**
+
+**Overall: 8.9** (62.5/70)
+
+No critic below 8.5. Publish.
