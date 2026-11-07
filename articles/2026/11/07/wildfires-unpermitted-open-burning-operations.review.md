@@ -1,0 +1,39 @@
+# 7-Critic Panel Evaluation: "Wildfires as Unpermitted Open Burning Operations"
+
+## 1. General Editor: 9.0/10
+The article follows the Ergo canon precisely: long factual headline, scholarly deck, Roman-numeral sections building a systematic case from operation to scale to process to discharge to standard to defense to prescription, genuine footnotes with a Sources section, and the deadpan "Ergo." close. The arc escalates cleanly, and the load-bearing beam is the unit rate against the fleet: a four-foot pile on a permissive burn day against 64,897 fires burning 8,924,884 acres, an area larger than Maryland, against a permitting system that has permitted zero wildfires. The defense section concedes the real escape hatches (natural event, the Exceptional Events Rule, the prescribed burn as the lawful version, the form, the government operator) before overruling them, which is the genre's honesty mechanism, and it is unusually candid in admitting that the 84 percent human-caused statistic undercuts the defense's own first exhibit. Minor weakness: Section II carries three fires in sequence, Smokehouse Creek, Park, and Los Angeles, which slightly crowds the section, though each earns its place on a distinct metric (acreage, state rank, urban destruction).
+
+## 2. Voice Coach: 9.0/10
+Deadpan investigative register throughout, matching the snow and oyster pieces, with the humor emerging exclusively from bureaucratic precision rather than jokes. Standout lines: "The permitted system burns a four-foot pile on a permissive burn day. The unpermitted system burns a county on a red flag day," "The difference between the two operations is not the fire. It is the paperwork," "The definition fits the way a glove fits a hand, provided the hand is on fire," and "waiting for a form that does not exist." The piece never winks; the closest it comes is the hero image's clipboard and air monitor beside a metal-ring brush pile, which lands as straight-faced procedural evidence. Excellent voice match.
+
+## 3. Ethics: 9.0/10
+All statutes, guidelines, and study results cited are real and quoted or paraphrased accurately where quoted: the California open burn permit requirements, the four-foot pile limit and ten-foot bare earth clearance, the 35 air districts, the 2002 burn barrel ban and 2004 residential waste burning ban, the 64,897 fires and 8,924,884 acres, the Smokehouse Creek acreage and losses, the Park Fire acreage, the Palisades and Eaton acreage, structure counts, and death tolls, the 18.5 million hectares in Canada, the New York AQI of 484, the PM2.5 standards of 9.0 annual and 35 over 24 hours, the Exceptional Events Rule codification, and the Forest Service suppression costs. The deliberately wrong conclusion, that a wildfire is an open burning operation requiring a permit, is the disclosed conceit; the piece is honest about the definitional escape hatch, that wildfire is a natural event excluded from attainment determinations under the Exceptional Events Rule, in Section VI, the same way prior pieces disclosed theirs. The acreage-to-square-mile conversions are explicitly flagged in footnotes 7 as arithmetic, not separately measured areas, and footnote 8 discloses that the one-billion-dollar Smokehouse Creek loss figure comes from the attorney general's suit while the agricultural loss figure comes from Texas A&M Extension. No ethical concerns.
+
+## 4. Social/Shareability: 9.0/10
+"Your wildfire never filed for a burn permit" is immediately graspable and funny at the headline level alone, and it carries a second hook most Ergo premises lack: the reader's own state wrote the permit rules the fire violates, with their tax dollars, and then paid four billion dollars to fight the unpermitted burn. The New York AQI of 484 from a fire in Quebec is the single most shareable image; "The smoke from a fire in Quebec closed the schools in New York" and "The permitted system burns a four-foot pile on a permissive burn day. The unpermitted system burns a county on a red flag day" are strong pull-quote material. The hero image, an inspector with a clipboard and air monitor beside a metal-ring brush pile with a wildfire behind him, is built for the thumbnail. High share potential.
+
+## 5. Legal Accuracy: 8.5/10
+The Clean Air Act framework is accurately summarized: the agency sets National Ambient Air Quality Standards for six criteria pollutants, the primary annual PM2.5 standard was revised in February 2024 from 12.0 to 9.0 micrograms per cubic meter, the 24-hour standard remains 35, and the Exceptional Events Rule at 40 CFR 50.1, 50.14, and 51.930 allows states to exclude wildfire data from attainment determinations. The California open burning regime is accurately summarized, including the air district permits, the CAL FIRE permit after May 1 in the State Responsibility Area, the permissive burn day system, the smoke management plan requirement for large burns, Public Resources Code 4423 and 4421, and Health and Safety Code 41850. The deliberately wrong conclusion, that a wildfire is an open burning operation, is the genre's disclosed conceit, and the piece never pretends any burn permit application has a line for acreage in the millions. Passes threshold, with the standard Ergo deduction for creative inference from regulatory text.
+
+## 6. Research Rigor: 9.0/10
+Strong sourcing across independent authorities: the National Interagency Coordination Center for the 2024 fire counts, the National Interagency Fire Center for the human-caused share, the California air districts for the permit regime, Wikipedia and Texas A&M Extension and the Texas attorney general for Smokehouse Creek, the California fire rankings for the Park Fire, Britannica and the California Commission on Aging for the Los Angeles fires, NASA and Wikipedia for the 2023 Canadian season, the New York City Mayor's Office for the AQI of 484, Copernicus via the Global Fire Monitoring Center for the carbon dioxide estimate, North Carolina State University for the PM2.5 standards, the Forest Service for suppression costs, and Environmental Research Letters for the Exceptional Events Rule. Minor weakness: the Verisk insured loss estimate of 28 to 35 billion dollars is carried by a sister site rather than Verisk directly, and the Smokehouse Creek acreage was revised downward from early reports of about 1,074,000 acres to the final 1,058,482; the article uses the final figure and links the carrying sources transparently. The 84 percent figure is attributed to the underlying research rather than the carrying news report.
+
+## 7. Data Presentation: 9.0/10
+Numbers are presented with consistent precision and always sourced: 64,897 wildfires and 8,924,884 acres in 2024 against 56,580 and 2,693,910 in 2023, a ten-year average of 59,513 fires and 6,950,386 acres, 13 fires over 40,000 acres, about 13,945 square miles against Maryland's 12,406, 1,058,482 acres and 1,654 square miles for Smokehouse Creek, 429,603 acres for the Park Fire, 23,448 and 14,021 acres and 6,837 and 9,414 structures and 12 and 19 deaths for Palisades and Eaton, 18.5 million hectares and 45.7 million acres for Canada, an AQI of 484 against a 500 maximum, 9.0 and 35 micrograms per cubic meter for the PM2.5 standards, and 3.652 billion dollars in Forest Service suppression costs against a 2.9 billion dollar ten-year average. The comparison framework, unit pile size versus fleet acreage versus the permitted system on the same acreage scale, is devastating and verifiable. Clear, consistent, sourced.
+
+---
+
+## OVERALL: 8.93/10
+
+| Critic | Score |
+|--------|-------|
+| General Editor | 9.0 |
+| Voice Coach | 9.0 |
+| Ethics | 9.0 |
+| Social/Shareability | 9.0 |
+| Legal Accuracy | 8.5 |
+| Research Rigor | 9.0 |
+| Data Presentation | 9.0 |
+| **Average** | **8.93** |
+
+**VERDICT: PUBLISH** (all scores >= 8.5, average 8.93)
