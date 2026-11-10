@@ -1,0 +1,35 @@
+# 6-Critic Panel Evaluation: "The 21-Gun Salute Is an Unlicensed Discharge of Firearms on Federal Property"
+
+## 1. General Editor: 9.0/10
+The article follows the Ergo canon precisely: long factual headline, scholarly deck, Roman-numeral sections building a systematic case from operation to scale to process to discharge to standard to defense to prescription, genuine footnotes with a Sources section, and the deadpan "Ergo." close. The arc escalates cleanly, and the load-bearing beam is the federal facilities statute against the counted discharge: a one year prison term for knowing possession of a firearm in a federal facility against a ceremony that produces 21 discharges per funeral, 2,835 to 3,150 per week at one cemetery, and 144,900 a year at the maximum. The defense section concedes the real escape hatches (the Armed Forces exception in subsection (d)(2), the definition of federal facility as a building, the blank cartridges, the missing posted notice, the age of the honor) before overruling them, which is the genre's honesty mechanism. The Veterans Day timing is exact: the piece publishes on the eve of the holiday, the 108th anniversary of the armistice, and the deck names the hour. Minor weakness: Section II carries three distinct counts in sequence, the holiday's legal history, the war's casualty figures, and the cemetery's throughput, which slightly crowds the section, though each earns its place on a distinct metric (why the day exists, how many it honors, and how often the honor is fired).
+
+## 2. Voice Coach: 9.0/10
+Deadpan investigative register throughout, matching the iceberg and avalanche pieces, with the humor emerging exclusively from bureaucratic precision rather than jokes. Standout lines: "Twenty-one discharges per funeral, 2,835 to 3,150 a week at one cemetery, and no permit has ever been filed for any of them," "The cartridges are blanks. The rifles are real. The law does not ask which," "The firing party does not hide the rifles. It presents them, raises them, and fires them three times in unison," and "waiting for a form that does not exist." The piece never winks; the closest it comes is the hero image's inspector in a suit and hard hat holding a clipboard beside a firing party at the Tomb, which lands as straight-faced procedural evidence. Excellent voice match.
+
+## 3. Ethics: 9.0/10
+All statutes, regulations, and study results cited are real and quoted or paraphrased accurately where quoted: the 21-gun salute history and the 1875 adoption, the three-volley salute as seven rifles times three volleys of blank cartridges and its distinction from the gun salute, the Tomb guard's 21 steps and 21 second pauses and continuous watch since July 2, 1937, the Veterans Day legal history from the 1938 act through the 1954 renaming and the 1975 return to November 11, the World War I figures of 4,734,991 served and 116,516 dead, the VetPop2023 estimate of 18,267,000 living veterans, the Arlington figures of 639 acres and more than 400,000 burials with 27 to 30 funerals each weekday, the 10 U.S.C. 1491 minimum honors, and the 18 U.S.C. 930 prohibition, exceptions, definitions, and notice requirement. The deliberately wrong conclusion, that every round of a military salute requires a permit under the federal facilities statute, is the disclosed conceit; the piece is honest about the escape hatch, that the Armed Forces exception and the building definition defeat it, in Section VI, the same way prior pieces disclosed theirs. The 144,900 figure is explicitly framed as a conditional maximum, not a measured count. No ethical concerns.
+
+## 4. Social/Shareability: 9.0/10
+"Your 21-gun salute never filed for a permit" is immediately graspable and funny at the headline level alone, and it carries a second hook most Ergo premises lack: the piece lands on the eve of Veterans Day, when every reader has just seen a firing party on television, and it reframes the ceremony as a paperwork failure in which the nation's highest honor is also its largest unpermitted discharge. The 21 discharges against one year in prison is the single most shareable image; "Twenty-one discharges per funeral, 2,835 to 3,150 a week at one cemetery" and "The cartridges are blanks. The rifles are real. The law does not ask which" are strong pull-quote material. The hero image, an inspector with a clipboard beside a firing party at the Tomb, is built for the thumbnail. High share potential.
+
+## 5. Legal Accuracy: 8.5/10
+The federal facilities framework is accurately summarized: 18 U.S.C. 930(a) punishes knowing possession of a firearm in a federal facility by a fine or up to one year in prison, subsection (b) raises it to five years where the firearm is intended for use in a crime, subsection (d) lists the three exceptions including possession by a member of the Armed Forces if authorized by law, the term federal facility means a building or part thereof owned or leased by the Federal Government where federal employees are regularly present, and subsection (h) requires conspicuous posted notice at each public entrance and bars conviction where it is not posted. The funeral honors framework is accurately summarized: 10 U.S.C. 1491 requires a detail of at least two uniformed members, the folding and presentation of the flag, and the playing of Taps, with firing parties as an augmentation the branches may add. The deliberately wrong conclusion, that the salute is an unlicensed discharge requiring a permit per round, is the genre's disclosed conceit, and the piece never pretends any permit application has a line for a volley. Passes threshold, with the standard Ergo deduction for creative inference from statutory text.
+
+## 6. Research Rigor: 9.0/10
+Strong sourcing across independent authorities: the United States Code for both statutes, Arlington National Cemetery and the Marine Corps History Division for the salute, the drill manual literature for the three-volley distinction, the United States Army for the Veterans Day legal history, the Congressional Research Service and the Department of Veterans Affairs for the war figures and the living veteran population, and the Boundary Stones and Tomb Guard literature for the sentinel's ritual. Minor weakness: the Arlington throughput figures are carried by the cemetery's encyclopedia entry rather than the cemetery's own About page, and the noon salute calendar on Presidents Day, Independence Day, and Memorial Day comes from the Marine Corps history page rather than the Navy regulations themselves. The disputed question of whether a blank cartridge counts as a discharge under the statute is avoided by treating the possession, not the projectile, as the violation, which is the cleaner reading of the text.
+
+---
+
+## OVERALL: 8.92/10
+
+| Critic | Score |
+|--------|-------|
+| General Editor | 9.0 |
+| Voice Coach | 9.0 |
+| Ethics | 9.0 |
+| Social/Shareability | 9.0 |
+| Legal Accuracy | 8.5 |
+| Research Rigor | 9.0 |
+| **Average** | **8.92** |
+
+**VERDICT: PUBLISH** (all scores >= 8.5, average 8.92)
