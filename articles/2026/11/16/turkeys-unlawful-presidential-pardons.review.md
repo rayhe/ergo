@@ -1,0 +1,39 @@
+# 7-Critic Panel Evaluation: "Turkeys Received Presidential Pardons Without Ever Being Charged"
+
+## 1. General Editor — 9.0/10
+The article follows the established Ergo format precisely: absurd-yet-rigorous mega-headline, scholarly deck, Roman-numeral sections building the case from birds to selection to history to power to process to scale to defense to prescription, genuine footnotes with a Sources section, and the deadpan "Ergo." close. Structure escalates with real dramatic logic: the birds are introduced with their weights and hotel, the selection process reads like a civil service examination for poultry, the history moves from an apocryphal Lincoln tale through a Reagan punchline to a permanent tradition, the constitutional power is quoted in full, the human process is laid out regulation by regulation, the scale is priced in millions of birds, the defense concedes the escape hatches, and the prescription demands a petition per turkey. The Peach and Blossom retroactive pardon, a second pardon of two birds pardoned once already, is the piece's sharpest single exhibit, and the Mount Vernon rejection on historical accuracy grounds is the best one-line exhibit in the history section. Minor weakness: Section III carries five historical beats in sequence, Lincoln, Vose, Truman and Eisenhower, Kennedy, Reagan and Bush, which slightly crowds the section, though each earns its place on a distinct vector (the founding myth, the gift, the meal, the reprieve, the joke that became law).
+
+## 2. Voice Coach — 9.0/10
+Dead-serious investigative tone throughout, matching the sea otter and jellyfish pieces in the regulatory register. Humor emerges exclusively from deadpan precision, never from jokes. Standout lines: "The pardon spared them from the table. It did not spare them from the paperwork, because there was no paperwork.", "One bird in fifteen million is pardoned. The rest are dinner.", "The organization that presents the pardoned turkey operates a website called EatTurkey.org.", "No pardoned turkey has ever lived anywhere that required it to file a form.", and "the dinner table is not a federal offense." Excellent voice match; the piece never winks. Minor note: "the pardon must be granted to someone" and "the pardon is the only clemency available to them" cover adjacent ground in the selection and defense sections, a small repetition in an otherwise tight register.
+
+## 3. Ethics — 9.0/10
+All statutes, regulations, and facts cited are real: the November 25, 2025 ceremony and the 52 and 50 pound weights from the National Turkey Federation's own release, the "full, absolute, and unconditional" pardon language and the retroactive pardon of Peach and Blossom from the Daily Compilation of Presidential Documents, the 1947 presentation, the 1963 Kennedy reprieve, and the 1989 Bush first official pardon from the White House archives, the Reagan 1987 Charlie joke and the apocryphal Lincoln tale from the historical record, the Article II, Section 2 pardon power, the 28 CFR 1.1 formal petition requirement and the 28 CFR 1.2 five-year waiting period, the 1,807 pardon petitions and 8,611 commutation petitions pending from the Justice Department's own statistics, and the 30 million turkeys eaten and 195 million raised from the National Turkey Federation and the Department of Agriculture. The deliberately wrong conclusion, that every turkey must file a formal petition with the Pardon Attorney and wait five years, is the disclosed conceit; the piece is honest about the escape hatch, that the pardon power is plenary and the department's rules are advisory, in Section VII, the same way prior pieces disclosed theirs. No ethical concerns.
+
+## 4. Social/Shareability — 9.0/10
+"Turkeys get pardoned without applying" is immediately graspable and funny at the headline level alone, and it carries three hooks most Ergo premises lack: the presenting organization runs a website called EatTurkey.org, the president pardoned last year's birds a second time after finding them on their way to be processed, and Mount Vernon rejected the pardoned turkeys for violating historical accuracy. "One bird in fifteen million is pardoned. The rest are dinner." and "Two pardons. No petition. No conviction. No waiting period." are strong pull-quote material, and the Thanksgiving timing, ten days before the holiday, gives the piece a news peg no prior piece has had. The hero image, a white turkey beside a Presidential Pardon document in the Rose Garden, is built for the thumbnail. High share potential.
+
+## 5. Legal Accuracy — 9.0/10
+The clemency law framework is accurately summarized: the Article II, Section 2, Clause 1 grant of the pardon power for offenses against the United States, quoted verbatim; the 28 CFR 1.1 requirement of a formal petition submitted to the Pardon Attorney; the 28 CFR 1.2 five-year waiting period after release from confinement or conviction; the three character reference requirement and the Federal Bureau of Investigation and United States Attorney investigation; and the 28 CFR 1.11 rule that the department's regulations are advisory and do not limit the president's constitutional power. The deliberately wrong conclusion, that a turkey must file a petition and wait five years, is the genre's disclosed conceit, and the piece never pretends any turkey has applied for one. Passes threshold, with the standard Ergo deduction for creative inference from constitutional text.
+
+## 6. Research Rigor — 8.5/10
+Strong sourcing across independent authorities: the Daily Compilation of Presidential Documents for the ceremony transcript, the National Turkey Federation for the birds' weights and raiser, the White House archives for the tradition's history, the Justice Department for the pending petition counts, the Electronic Code of Federal Regulations for the petition rules, the Constitution Annotated for the pardon clause, and the encyclopedia record for the selection process and retirement homes. The Peach and Blossom retroactive pardon is corroborated by the official transcript itself. Minor weaknesses: the scale figures, the 30 million eaten, the 46 million in 2016, the 195 million raised, and the 4.8 billion dollars in receipts, reach the piece through a secondary aggregator citing the National Turkey Federation and the Department of Agriculture rather than those bodies directly, and the three character reference requirement reaches the piece through a practitioner site rather than the department's own application form. The 480 million pound derived figure is shown arithmetic from the record, and the article shows its work.
+
+## 7. Data Presentation — 9.0/10
+Numbers are presented with consistent precision and always sourced: 52 and 50 pounds for Gobble and Waddle, 78 years and 15 administrations, a flock of 50 to 80 birds, 10 to 20 best preened and best behaved finalists, 17 to 21 week old toms at about 45 pounds, market toms at 18 weeks and 38 pounds, hens at 14 weeks and 15.5 pounds, a 55 pound Kennedy turkey, 1,807 pardon petitions and 8,611 commutation petitions pending for 10,418 in all, nearly 30 million turkeys eaten this Thanksgiving against 46 million in 2016, 195 million raised, 4.8 billion dollars in receipts, 480 million pounds in a single holiday, one pardon in 15 million eaten and one in 97.5 million raised, and 72 birds pardoned since 1989. The comparison framework, the two pardoned birds against the 10,418 pending human petitions and the 30 million eaten, is devastating and verifiable. Clear, consistent, sourced.
+
+---
+
+## OVERALL: 8.93/10
+
+| Critic | Score |
+|--------|-------|
+| General Editor | 9.0 |
+| Voice Coach | 9.0 |
+| Ethics | 9.0 |
+| Social/Shareability | 9.0 |
+| Legal Accuracy | 9.0 |
+| Research Rigor | 8.5 |
+| Data Presentation | 9.0 |
+| **Average** | **8.93** |
+
+**VERDICT: PUBLISH** (all scores >= 8.5, average 8.93)
